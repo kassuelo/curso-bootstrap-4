@@ -1,0 +1,14 @@
+.scrollspySite {
+  position: relative;
+  overflow: auto;
+  height: 380px;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 1900px) {
+  .modal-content {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
